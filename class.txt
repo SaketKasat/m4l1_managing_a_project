@@ -1,4 +1,4 @@
-Crimson
+orange
 Orange
 Green
 Cyan
@@ -6,7 +6,7 @@ Yellow
 Ivory
 Khaki
 Coral
-Silver
+black
 Fuchsia
 Gray
 Brown
